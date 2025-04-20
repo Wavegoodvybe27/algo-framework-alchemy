@@ -1,8 +1,17 @@
-# Welcome to your Lovable project
-
-## Project info
+# Algorithm Forge: Transforming Math into Algorithms
 
 **URL**: https://lovable.dev/projects/a15a1673-09ab-48f8-9b54-2c6f4a83ca88
+
+## About Algorithm Forge
+
+Algorithm Forge is an interactive web application that transforms mathematical frameworks into practical algorithms. The platform visualizes the transformation process, making it educational and accessible for academics, engineers, students, and researchers.
+
+### Key Features
+
+- **Mathematical Framework Library**: Explore a collection of mathematical frameworks across algebra, calculus, statistics, and more
+- **Transformation Visualization**: See how mathematical concepts transform into algorithmic steps
+- **Interactive Playground**: Experiment with your own mathematical frameworks
+- **Educational Resource**: Learn about the connection between mathematics and algorithms
 
 ## How can I edit this code?
 
